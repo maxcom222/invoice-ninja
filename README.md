@@ -4,16 +4,6 @@
 
 # Invoice Ninja
 
-[![Build Status](https://travis-ci.org/invoiceninja/invoiceninja.svg?branch=master)](https://travis-ci.org/invoiceninja/invoiceninja)
-[![Docs](https://readthedocs.org/projects/invoice-ninja/badge/?version=latest)](https://invoice-ninja.readthedocs.io/en/latest/?badge=latest)
-
-## [Hosted](https://www.invoiceninja.com) | [Self-Hosted](https://www.invoiceninja.org)
-
-### We're on Slack, join us at [slack.invoiceninja.com](http://slack.invoiceninja.com) or if you like [StackOverflow](https://stackoverflow.com/tags/invoice-ninja/)
-  
-Just make sure to add the `invoice-ninja` tag to your question.
-
-
 #### We are currently looking for co-mainteners for the [dockerfiles repository](https://github.com/invoiceninja/dockerfiles), if you're interested please let us know
 
 All Pro and Enterprise features from the hosted app are included in the open-source code. We offer a $30 per year white-label license to remove the Invoice Ninja branding from client facing parts of the app.
